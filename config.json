@@ -1,0 +1,16 @@
+{
+    "IOT_DEVICES": {
+        "169.254.59.96": {
+            "name": "macbook",
+            "mac": "16:c2:87:6c:9f:32"
+        }
+    },
+    "NORMAL_IP_RANGES": [
+        "10.2.6.0/23"
+    ],
+    "NORMAL_PORTS": [
+        80,
+        443
+    ],
+    "MAX_PACKET_SIZE": 1500
+}
